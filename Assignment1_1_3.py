@@ -1,5 +1,5 @@
 # 1. Showcase Your Dance Moves!
-# Task 3
+# Task 3: Spotting Indentation Errors
 mood = "excited"
 
 if mood == "excited":
