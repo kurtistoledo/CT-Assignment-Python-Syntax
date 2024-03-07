@@ -1,5 +1,5 @@
 # 1. Showcase Your Dance Moves!
-# Task 1
+# Task 1: Code Correction
 weather = "sunny"
 
 if weather == "sunny":
