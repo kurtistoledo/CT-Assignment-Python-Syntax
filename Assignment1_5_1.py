@@ -16,3 +16,5 @@ total_item3_cost = item3_price * item3_quantity
 total_cost = total_item1_cost + total_item2_cost + total_item3_cost
 
 print("Total cost of the three items: $",total_cost)
+
+# Total cost of the three items: $ 7.0
