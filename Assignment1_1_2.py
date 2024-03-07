@@ -1,5 +1,5 @@
 # 1. Showcase Your Dance Moves!
-# Task 2
+# Task 2: Your Mood Today
 mood = input("How do you feel today? ")
 
 if mood == "happy":
