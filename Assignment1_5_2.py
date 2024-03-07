@@ -11,3 +11,5 @@ interest_rate = 0.05  # 5% yearly interest rate
 total_amount = initial_amount * (1 + interest_rate)
 # Print the total amount after a year
 print("Total in your savings account after a year:", total_amount)
+
+# Total in your savings account after a year: 2100.0
